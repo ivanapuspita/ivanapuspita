@@ -1,12 +1,6 @@
 ### Hi there, I'm Ivana 👋
 
-### and here is my stats
-<!-- <p align="center"><img src="https://www.codewars.com/users/ivanapuspita/badges/large"/><br /><br /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanapuspita&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanapuspita&theme=monokai"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanapuspita&layout=compact&theme=monokai&langs_count=12"/><br />
-</p>
+
 
 <!--
 **ivanapuspita/ivanapuspita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
