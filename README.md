@@ -1,9 +1,9 @@
 ### Hi there, I'm Ivana 👋
 
 ### and here is my stats
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanapuspita&show_icons=true&include_all_commits=true&theme=dark" alt="hossein heydari's GitHub stats" />
+  
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ivanapuspita&theme=dark)](https://git.io/streak-stats)
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanapuspita&layout=compact&theme=dark&langs_count=12"/><br />
 </p>
