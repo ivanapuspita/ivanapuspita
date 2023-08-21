@@ -2,7 +2,6 @@
 
 ### and here is my stats
   
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ivanapuspita&theme=dark)](https://git.io/streak-stats)
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanapuspita&layout=compact&theme=dark&langs_count=12"/><br />
